@@ -1,4 +1,4 @@
-# BlogGenerator
+# BlogGenerator ( ͡° ͜ʖ ͡°)
 
 Blog for bakers
 
