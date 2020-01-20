@@ -4,7 +4,7 @@ Blog for bakers
 
 Funcitonalities:
  - create/delete posts
-  - different media types
+   - different media types
  - comment posts & respond to comments
  - post rating
  - timeline of user
@@ -13,14 +13,14 @@ Funcitonalities:
  
  DB structure:
   - Post
-   - 1 creator
-   - 0..n comments
+    - 1 creator
+    - 0..n comments
   - Comments
-   - 1 creator
-   - 0..n comments
+    - 1 creator
+    - 0..n comments
   - User
-   - 1 creator
-   - 0..n Posts
-   - 0..n Comments
-   - 1 Profile
+    - 1 creator
+    - 0..n Posts
+    - 0..n Comments
+    - 1 Profile
   - Rating
