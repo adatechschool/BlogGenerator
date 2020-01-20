@@ -24,3 +24,6 @@ Funcitonalities:
     - 0..n Comments
     - 1 Profile
   - Rating
+
+
+:) 
