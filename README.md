@@ -25,5 +25,5 @@ Funcitonalities:
     - 1 Profile
   - Rating
 
-
-:) 
+<img src="https://github.com/adatechschool/BlogGenerator/blob/master/photos/IMG_2337.jpg">
+<img src="https://github.com/adatechschool/BlogGenerator/blob/master/photos/IMG_2338.jpg">
